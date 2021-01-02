@@ -14,6 +14,7 @@ This project contains the implementation of a Deep Q-learning agent which finds 
 ## Folder structure:
 * **part1**: Individual python files enhance the agent to solve the gridworld with one static obstacle. Files improve from an agent with replay buffer to an agent that uses a target network and learns the environment through the bellman equation. 
 * **part2**: agent.py entails all the logic behind the agent. 
+* All the specifications of the exercise are inside task.pdf and the answers to the exercises as well as a detailed description of the implemented code for part2 can be found in report.pdf
 
 ## Requirements
 reinforcement-learning-DeepQNetwork requires the following to run: 
